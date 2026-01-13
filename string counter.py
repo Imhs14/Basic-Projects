@@ -1,0 +1,1 @@
+print(len(input("enter the word you want to count for :"))) #counts the number of letters and spaces in the  given string
